@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1491795140 source:d:\0.learningresources\12.ltnc\codeinclass\lec7-simpleai\draw.cpp
+	<string>
+	<cstdlib>
+
+1618800384 source:d:\0.learningresources\12.ltnc\codeinclass\lec7-simpleai\guesser.cpp
+	<string>
+	<cstdlib>
+	<map>
+	"guesser.h"
+	"util.h"
+
+1491795140 d:\0.learningresources\12.ltnc\codeinclass\lec7-simpleai\guesser.h
+	<string>
+	<set>
+
+1491795140 d:\0.learningresources\12.ltnc\codeinclass\lec7-simpleai\util.h
+	<vector>
+	<string>
+
+1491795140 source:d:\0.learningresources\12.ltnc\codeinclass\lec7-simpleai\main.cpp
+	<iostream>
+	<set>
+	<cctype>
+	<algorithm>
+	<stdexcept>
+	<thread>
+	<chrono>
+	"util.h"
+	"guesser.h"
+	"draw.h"
+
+1491795140 d:\0.learningresources\12.ltnc\codeinclass\lec7-simpleai\draw.h
+	<string>
+
+1491795140 source:d:\0.learningresources\12.ltnc\codeinclass\lec7-simpleai\util.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<fstream>
+	<vector>
+	<stdexcept>
+
